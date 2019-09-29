@@ -40,7 +40,7 @@ following executes this workflow:
 
 ```bash
 git clone --recursive https://github.com/popperized/seissol-workflows
-cd seissol-workflows/workflow/scc18-containerless
+cd seissol-workflows/workflows/scc18-containerless
 
 popper run
 ```
